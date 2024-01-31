@@ -1,1 +1,1 @@
-# https://Stebeniev.github.io/coffee-page/coffee-page/index.html
+# https://Stebeniev.github.io/coffee-page/index.html
